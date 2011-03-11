@@ -17,19 +17,19 @@
             <Keywords name="Words4">abstract final implicit lazy override private protected sealed</Keywords>
         </KeywordLists>
         <Styles>
-            <WordsStyle name="DEFAULT" styleID="11" fgColor="FFFFFF" bgColor="000000" fontName="" fontStyle="0" />
-            <WordsStyle name="FOLDEROPEN" styleID="12" fgColor="FFFFFF" bgColor="000000" fontName="" fontStyle="0" />
-            <WordsStyle name="FOLDERCLOSE" styleID="13" fgColor="FFFFFF" bgColor="000000" fontName="" fontStyle="0" />
-            <WordsStyle name="KEYWORD1" styleID="5" fgColor="CDA869" bgColor="000000" fontName="" fontStyle="0" />
-            <WordsStyle name="KEYWORD2" styleID="6" fgColor="CF6A4C" bgColor="000000" fontName="" fontStyle="0" />
-            <WordsStyle name="KEYWORD3" styleID="7" fgColor="CDA869" bgColor="000000" fontName="" fontStyle="1" />
-            <WordsStyle name="KEYWORD4" styleID="8" fgColor="F9EE98" bgColor="000000" fontName="" fontStyle="0" />
-            <WordsStyle name="COMMENT" styleID="1" fgColor="5F5A60" bgColor="000000" fontName="" fontStyle="2" />
-            <WordsStyle name="COMMENT LINE" styleID="2" fgColor="5F5A60" bgColor="000000" fontName="" fontStyle="2" />
-            <WordsStyle name="NUMBER" styleID="4" fgColor="CF6A4C" bgColor="000000" fontName="" fontStyle="0" />
-            <WordsStyle name="DELIMINER1" styleID="14" fgColor="8F9D6A" bgColor="000000" fontName="" fontStyle="0" />
-            <WordsStyle name="DELIMINER2" styleID="15" fgColor="CF6A4C" bgColor="000000" fontName="" fontStyle="0" />
-            <WordsStyle name="DELIMINER3" styleID="16" fgColor="FFFFFF" bgColor="000000" fontName="" fontStyle="0" />
+            <WordsStyle name="DEFAULT" styleID="11" fgColor="FFFFFF" bgColor="141414" fontName="" fontStyle="0" />
+            <WordsStyle name="FOLDEROPEN" styleID="12" fgColor="FFFFFF" bgColor="141414" fontName="" fontStyle="0" />
+            <WordsStyle name="FOLDERCLOSE" styleID="13" fgColor="FFFFFF" bgColor="141414" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD1" styleID="5" fgColor="CDA869" bgColor="141414" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD2" styleID="6" fgColor="CF6A4C" bgColor="141414" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD3" styleID="7" fgColor="CDA869" bgColor="141414" fontName="" fontStyle="1" />
+            <WordsStyle name="KEYWORD4" styleID="8" fgColor="F9EE98" bgColor="141414" fontName="" fontStyle="0" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="5F5A60" bgColor="141414" fontName="" fontStyle="2" />
+            <WordsStyle name="COMMENT LINE" styleID="2" fgColor="5F5A60" bgColor="141414" fontName="" fontStyle="2" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="CF6A4C" bgColor="141414" fontName="" fontStyle="0" />
+            <WordsStyle name="DELIMINER1" styleID="14" fgColor="8F9D6A" bgColor="141414" fontName="" fontStyle="0" />
+            <WordsStyle name="DELIMINER2" styleID="15" fgColor="CF6A4C" bgColor="141414" fontName="" fontStyle="0" />
+            <WordsStyle name="DELIMINER3" styleID="16" fgColor="FFFFFF" bgColor="141414" fontName="" fontStyle="0" />
         </Styles>
     </UserLang>
 </NotepadPlus>
