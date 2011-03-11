@@ -1,5 +1,7 @@
 # IntelliJ IDEA color scheme for a modified TextMate Twilight theme.
 
+![screenshot](https://github.com/eed3si9n/color-themes/raw/master/IntelliJ-IDEA/Twilight/cropped.png)
+
 ### steps
 1. close IDEA.
 2. download Twilight.xml and copy it to the "colors" folder.
