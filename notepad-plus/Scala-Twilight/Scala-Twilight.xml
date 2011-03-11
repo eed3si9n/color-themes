@@ -1,0 +1,35 @@
+<NotepadPlus>
+    <UserLang name="Scala" ext="scala">
+        <Settings>
+            <Global caseIgnored="no" escapeChar="\" />
+            <TreatAsSymbol comment="no" commentLine="yes" />
+            <Prefix words1="no" words2="no" words3="no" words4="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Delimiters">&quot;&apos;0&quot;&apos;0</Keywords>
+            <Keywords name="Folder+">{</Keywords>
+            <Keywords name="Folder-">}</Keywords>
+            <Keywords name="Operators">&quot;</Keywords>
+            <Keywords name="Comment">1/* 1/** 2*/ 2*/ 0//</Keywords>
+            <Keywords name="Words1">class def extends forSome import object package trait type val var with case catch do else finally for if match requires return throw try while yield new super this</Keywords>
+            <Keywords name="Words2">false null true</Keywords>
+            <Keywords name="Words3"></Keywords>
+            <Keywords name="Words4">abstract final implicit lazy override private protected sealed</Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" styleID="11" fgColor="FFFFFF" bgColor="000000" fontName="" fontStyle="0" />
+            <WordsStyle name="FOLDEROPEN" styleID="12" fgColor="FFFFFF" bgColor="000000" fontName="" fontStyle="0" />
+            <WordsStyle name="FOLDERCLOSE" styleID="13" fgColor="FFFFFF" bgColor="000000" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD1" styleID="5" fgColor="CDA869" bgColor="000000" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD2" styleID="6" fgColor="CF6A4C" bgColor="000000" fontName="" fontStyle="0" />
+            <WordsStyle name="KEYWORD3" styleID="7" fgColor="CDA869" bgColor="000000" fontName="" fontStyle="1" />
+            <WordsStyle name="KEYWORD4" styleID="8" fgColor="F9EE98" bgColor="000000" fontName="" fontStyle="0" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="5F5A60" bgColor="000000" fontName="" fontStyle="2" />
+            <WordsStyle name="COMMENT LINE" styleID="2" fgColor="5F5A60" bgColor="000000" fontName="" fontStyle="2" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="CF6A4C" bgColor="000000" fontName="" fontStyle="0" />
+            <WordsStyle name="DELIMINER1" styleID="14" fgColor="8F9D6A" bgColor="000000" fontName="" fontStyle="0" />
+            <WordsStyle name="DELIMINER2" styleID="15" fgColor="CF6A4C" bgColor="000000" fontName="" fontStyle="0" />
+            <WordsStyle name="DELIMINER3" styleID="16" fgColor="FFFFFF" bgColor="000000" fontName="" fontStyle="0" />
+        </Styles>
+    </UserLang>
+</NotepadPlus>
