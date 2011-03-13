@@ -1,5 +1,7 @@
 # Notepad++ User-Defined language rule for Scala with modified TextMate Twilight theme.
 
+![screenshot](https://github.com/eed3si9n/color-themes/raw/master/notepad-plus/Scala-Twilight/cropped.png)
+
 ### steps
 1. run Notepad++.
 2. open View > User-Defined Dialogue...
