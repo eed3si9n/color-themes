@@ -11,4 +11,4 @@
 ### colors folder
 - for Mac OS, `~/Library/Preferences/IntelliJIDEA10CE/colors/`
 - for Linux, `~/.IntelliJIDEA10CE/config/colors/`
-- for Windows, `C:\Documents and Settings\user\.IntelliJIdea70\config\colors`
+- for Windows, `C:\Documents and Settings\user\IntelliJIDEA10CE\config\colors`
