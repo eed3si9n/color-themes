@@ -1,1 +1,2 @@
-see [Twilight](https://github.com/eed3si9n/color-themes/tree/master/IntelliJ-IDEA/Twilight).
+- [Twilight](https://github.com/eed3si9n/color-themes/tree/master/IntelliJ-IDEA/Twilight).
+- [Vibrant Ink](https://github.com/eed3si9n/color-themes/tree/master/IntelliJ-IDEA/Vibrant-Ink).
